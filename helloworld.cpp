@@ -6,5 +6,6 @@ int main(){
     printf("goodbye!\n");
     printf("123456\n");
     printf("789456\n");
+    printf("yesyesyes!\n");
     return 0; 
 }
