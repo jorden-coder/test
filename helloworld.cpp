@@ -7,5 +7,6 @@ int main(){
     printf("123456\n");
     printf("789456\n");
     printf("yesyesyes!\n");
+    printf("nonono!\n");
     return 0; 
 }
