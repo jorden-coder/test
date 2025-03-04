@@ -8,5 +8,6 @@ int main(){
     printf("789456\n");
     printf("yesyesyes!\n");
     printf("nonono!\n");
+    printf("test!\n");
     return 0; 
 }
